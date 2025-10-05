@@ -1,0 +1,125 @@
+{
+  "assets/images/cassino-small.png": {
+    "file": "assets/cassino-small-3b2680a4.png",
+    "src": "assets/images/cassino-small.png"
+  },
+  "assets/images/cassino.png": {
+    "file": "assets/cassino-527189c0.png",
+    "src": "assets/images/cassino.png"
+  },
+  "assets/images/sport-small.png": {
+    "file": "assets/sport-small-5e566ee2.png",
+    "src": "assets/images/sport-small.png"
+  },
+  "assets/images/sport.png": {
+    "file": "assets/sport-a0e04fbf.png",
+    "src": "assets/images/sport.png"
+  },
+  "lang/en.json": {
+    "file": "assets/en-19e3c292.js",
+    "isDynamicEntry": true,
+    "src": "lang/en.json"
+  },
+  "lang/es.json": {
+    "file": "assets/es-ac2895f3.js",
+    "isDynamicEntry": true,
+    "src": "lang/es.json"
+  },
+  "lang/php_en.json": {
+    "file": "assets/php_en-9d88223b.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_en.json"
+  },
+  "lang/php_es.json": {
+    "file": "assets/php_es-047a2e64.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_es.json"
+  },
+  "lang/php_pt_BR.json": {
+    "file": "assets/php_pt_BR-9772c357.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_pt_BR.json"
+  },
+  "lang/php_vendor.json": {
+    "file": "assets/php_vendor-08f688ab.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_vendor.json"
+  },
+  "lang/pt_BR.json": {
+    "file": "assets/pt_BR-f9d5a88c.js",
+    "isDynamicEntry": true,
+    "src": "lang/pt_BR.json"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-e28096fa.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-232c6f6a.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-9174757e.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-c27da6f8.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-b4990d0d.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-ae17c16a.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-ff8f525f.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-c7a869fa.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-1bdede0c.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/cassino-527189c0.png",
+      "assets/cassino-small-3b2680a4.png",
+      "assets/sport-a0e04fbf.png",
+      "assets/sport-small-5e566ee2.png",
+      "assets/fa-brands-400-232c6f6a.woff2",
+      "assets/fa-brands-400-e28096fa.ttf",
+      "assets/fa-regular-400-c27da6f8.woff2",
+      "assets/fa-regular-400-9174757e.ttf",
+      "assets/fa-solid-900-ae17c16a.woff2",
+      "assets/fa-solid-900-b4990d0d.ttf",
+      "assets/fa-v4compatibility-c7a869fa.woff2",
+      "assets/fa-v4compatibility-ff8f525f.ttf"
+    ],
+    "css": [
+      "assets/app-1bdede0c.css"
+    ],
+    "dynamicImports": [
+      "lang/en.json",
+      "lang/es.json",
+      "lang/php_en.json",
+      "lang/php_es.json",
+      "lang/php_pt_BR.json",
+      "lang/php_vendor.json",
+      "lang/pt_BR.json"
+    ],
+    "file": "assets/app-eda257ee.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
